@@ -1,1 +1,1 @@
-podstawy
+print("Anna")
